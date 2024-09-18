@@ -13,7 +13,7 @@ public class SpringbootJenkinsApplication {
 
 	@PostConstruct
 	public void print(){
-		logger.info("application started..");
+		logger.info("application started...");
 	}
 
 	public static void main(String[] args) {
